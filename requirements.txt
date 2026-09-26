@@ -1,0 +1,41 @@
+# Core LangChain + OpenAI
+langchain
+langchain-core
+langchain-community
+langchain-openai
+openai
+
+# Vector store
+faiss-cpu
+
+# Data handling
+pandas
+
+# Excel / Word / PowerPoint
+msoffcrypto-tool
+python-docx
+python-pptx
+
+# NLP utilities
+nltk
+
+# EPUB / Pandoc
+pypandoc
+pandoc
+
+# PDF & image stack
+PyMuPDF        # import name: fitz / pymupdf
+pdfminer.six
+pdf2image
+pillow
+pillow_heif
+pi_heif
+
+# Unstructured ingestion
+unstructured
+unstructured-inference
+unstructured.pytesseract
+python-magic
+
+# Display helpers used in the notebook
+ipython
